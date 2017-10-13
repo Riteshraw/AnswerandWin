@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Ans N Win</string>
+    <!--<string name="gcm_defaultSenderId">584315028567</string>-->
+
+    <string name="ace">A</string>
+    <string name="fault">DF</string>
+    <string name="serve_winner">PW</string>
+    <string name="return_winner">PL</string>
+    <string name="return_error">RE</string>
+    <string name="forehand">FH</string>
+    <string name="rally_winner">RW</string>
+    <string name="backhand">BH</string>
+    <string name="forced_error">FE</string>
+    <string name="unforced_error">UE</string>
+    <string name="challenge">CH</string>
+    <string name="injury">IJ</string>
+
+    <!--App carsh tracker-->
+    <string name="url">default_url</string>
+    <string name="filterString">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789</string>
+    <bool name="class_name">false</bool>
+    <bool name="message">false</bool>
+    <bool name="localized_message">false</bool>
+    <bool name="causes">false</bool>
+    <bool name="stack_trace">false</bool>
+    <bool name="brand_name">false</bool>
+    <bool name="device_name">false</bool>
+    <bool name="model_number">false</bool>
+    <bool name="product_name">false</bool>
+    <bool name="sdk_version">false</bool>
+    <bool name="release">false</bool>
+    <bool name="incremental">false</bool>
+    <bool name="height">false</bool>
+    <bool name="width">false</bool>
+    <bool name="app_version">false</bool>
+    <bool name="tablet">false</bool>
+    <bool name="package_name">false</bool>
+    <bool name="device_orientation">false</bool>
+    <bool name="screen_layout">false</bool>
+    <bool name="vm_heap_size">false</bool>
+    <bool name="allocated_vm_size">false</bool>
+    <bool name="vm_max_heap_size">false</bool>
+    <bool name="vm_free_heap_size">false</bool>
+    <bool name="native_allocated_size">false</bool>
+    <bool name="battery_percentage">false</bool>
+    <bool name="battery_charging">false</bool>
+    <bool name="battery_charging_via">false</bool>
+    <bool name="sd_card_status">false</bool>
+    <bool name="internal_memory_size">false</bool>
+    <bool name="external_memory_size">false</bool>
+    <bool name="internal_free_space">false</bool>
+    <bool name="external_free_space">false</bool>
+    <bool name="device_rooted">false</bool>
+    <bool name="network_mode">false</bool>
+    <bool name="country">false</bool>
+    <string name="title_activity_group_notification">GroupNotification</string>
+
+</resources>

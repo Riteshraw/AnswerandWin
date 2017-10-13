@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#9BD0E3</color>
+
+    <color name="textColorWhite">#FFFFFF</color>
+    <color name="boxBorderColor">#DEDEDE</color>
+
+    <color name="windowbackground">#FFFFFF</color>
+    <color name="textColor">#696969</color>
+    <color name="colorGreen">#7AB900</color>
+    <color name="colorGreenNew">#A0C494</color>
+    <color name="colorOrange">#FF2525</color>
+    <color name="colorMagenta">#D6279F</color>
+    <color name="highLightTextColor">#FA833D</color>
+    <color name="colorDarkGreen">#3A7C25</color>
+
+    <color name="colorgrey">#BEBEBE</color>
+    <color name="colorbtngrey">#D6D7D7</color>
+    <color name="colorlightgrey">#F1F1F1</color>
+    <color name="colorlGreyOutline">#999999</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorAce">#FAC79E</color>
+    <color name="colorFault">#9BD0E3</color>
+    <color name="colorPointL">#CEC2D6</color>
+    <color name="yellow">#FFE793</color>
+
+    <color name="player1">#F9BC00</color>
+    <color name="player2">#C264FE</color>
+
+    <color name="icon_color">#2A2A2A</color>
+</resources>
